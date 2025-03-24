@@ -1,0 +1,5 @@
+I hope to learn on working on a real world problem and get to learn how professional softwares are made and get to work in a team full of likewise minds.
+My skills of frontend development, github skills, communication and my problem solving and debugging skills.
+I can contribute well as a team member and my bring in my skills of full stack and I believe I work well under a team and I can contribute my helping my teammates , sharing ideas and writing well organised code to keep the project moving smoothly.
+I’d like to become more confident in frontend design and user experience,while I’ve done some UI work, I sometimes struggle with making interfaces visually appealing but I am gonna learn that in this internship.
+For me, success would be contributing meaningfully to the project, gaining confidence in working as part of a professional team, and walking away with both improved technical skills and stronger communication and collaboration abilities.
