@@ -1,0 +1,3 @@
+The conflict is caused as there was a different word in both files in different branches(main , conflict) and the git cant decide which one to keep while merging.
+I resolved by keeping by editing the file to keep both words in the line and the merge was done successfully.
+I learned that if i work on different branches and if i edit one one branch it wont get easily copy in different as well it will require my permission for that.
