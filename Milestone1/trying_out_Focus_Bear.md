@@ -1,0 +1,4 @@
+I liked the first impressions of the Focus bear app- its very minimal and straightforward but It just took me some time to understand the overall but I am able to understand it.
+I just felt the set up proceses are a bit long, they should be a little less steps and maybe that would take a little bit more understanding.
+Focus bear is a really good tool for distractions, it created me habits accordingly according to my wake up time and work time.
+I would recommend improving the overall UI of the app for the better retention via users and the animation of the app when we move to different section it should be more smooth according to me and some of the button placements and I noticed the andorid gestures are not working as well.
