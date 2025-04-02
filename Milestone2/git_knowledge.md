@@ -1,0 +1,3 @@
+1. Yes I have experience with git and I have used in my units (full stack developement) in my uni and I have experience with pushing the managing my code with git.
+2. I prefer to use terminal git in vs code as its the method i have used for the time and I know all the codes for the same but i do have github desktop installed as well  I have pushed some of my code using that too.
+3. The most interesting thing I learned is how Git tracks changes at the file level using snapshots instead of differences and we can easily revert the changes if we dont want the new ones.
