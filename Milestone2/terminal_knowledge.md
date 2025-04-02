@@ -1,0 +1,3 @@
+1. I’m using Windows Terminal because it’s modern, clean, and works well with multiple shells like PowerShell, Command Prompt. It’s also really customizable and looks much better than the old default terminal.
+2. I have kept the default theme as for now but i have tried all the customisations but didnt suit me well.
+3. The most useful one was cd .. — I already knew about it, but I didn’t realize how powerful basic navigation could be when combined with ls, mkdir, and touch (or New-Item in PowerShell). It's really sped up how I move around and set up folders quickly.
