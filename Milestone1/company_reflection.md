@@ -1,5 +1,5 @@
-Focus Bear was created to solve the problem of ADHD which is common in days for uni students and who face the problem of getting distracted easily.
-Focus Bear is solving the issue of increasing the productivity by blocking down Apps or websites which can be distractful to people.
-This mission is important because its solving a real world problem of getting our working days sorted.
-Focus Bear will help me get rid of my distractions while i am on web and I am focused on working on something. It will just block those sites and wont let me use it.
-Yes I personally relate to the issue as I have seen people having distraction problems so I will personally recommend them this.
+Focus Bear was created to help solve the problem of ADHD, which is common these days—especially among university students who get distracted easily.
+It increases productivity by blocking distracting apps or websites, helping people stay focused.
+This mission is important because it's tackling a real-world issue: staying on track during our workdays.
+Focus Bear helps me avoid distractions while I’m working online by blocking access to time-wasting sites.
+Yes, I personally relate to this problem, and I’ve seen many people struggle with staying focused. I’d definitely recommend this tool to them.
