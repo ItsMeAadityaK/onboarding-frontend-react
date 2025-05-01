@@ -31,3 +31,6 @@ The original code repeated the same console.log structure three times with only 
 
 Breaking down functions into smaller ones is helpful because it makes the code easier to read, test, and update. In my example, I had one function that printed a user's name, age, and also checked if they were an adult — all in one place. It worked, but everything was mixed together, and it wasn’t very clear what each part was doing.
 After refactoring, I created three smaller functions: one to print the name, one for the age, and one to check if the person is an adult. This made the structure more organized, and now each function does just one thing. If I ever need to change how age is printed, I can do that without touching the rest of the logic. Overall, the code looks cleaner and feels easier to manage.
+
+
+Comments should be used to explain why something is done, not just what is obvious. In my example, the original comment just said "do something", which wasn’t helpful. After rewriting it to explain that the function returns the sum of two numbers, it’s now clear to anyone reading the code. But sometimes, if the function or variable names are clear enough, you don’t even need a comment. Instead of adding unnecessary comments, it's often better to write self-explanatory code.

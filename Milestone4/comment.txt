@@ -1,0 +1,10 @@
+// do something
+function add(x, y) {
+  return x + y;
+}
+
+
+// Returns the sum of two numbers
+function add(x, y) {
+  return x + y;
+}
