@@ -29,3 +29,13 @@ After configuring ESLint with a detailed rule set and running it on my code, I s
 A good variable name clearly describes what the value represents. In the first version, a, b, and c don’t give any context, which makes the code hard to understand. After changing the names to width, height, and area, it’s much easier to see what the code is doing. Refactoring made the code more readable and meaningful without changing any logic. Even small name changes can make a big difference.
 Example: let a = 10; let b = 20; let c = a+b; console.log(c);
 let width = 10; let height = 20; let area = width + height; console.log(area); 
+
+
+The original code repeated the same console.log structure three times with only the name changing. This kind of duplication can lead to errors if I later need to update the message or format — I’d have to remember to change it everywhere. By refactoring with a greetUser() function, the code is now cleaner and easier to maintain. If I ever want to change the greeting, I only have to update it in one place. It also makes the code more reusable and scalable if more users are added later.
+console.log("Welcome, Aaditya!");console.log("Welcome, Bear!");console.log("Welcome, Focus!");
+
+function greetUser(name) {
+  console.log(`Welcome, ${name}!`);
+}
+greetUser("Aaditya");greetUser("Bear");greetUser("Focus");
+
