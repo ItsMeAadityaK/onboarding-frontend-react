@@ -1,0 +1,11 @@
+console.log("Welcome, Aaditya!");
+console.log("Welcome, Bear!");
+console.log("Welcome, Focus!");
+
+
+function greetUser(name) {
+  console.log(`Welcome, ${name}!`);
+}
+greetUser("Aaditya");
+greetUser("Bear");
+greetUser("Focus");

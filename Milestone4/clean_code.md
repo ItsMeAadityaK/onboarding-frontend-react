@@ -21,21 +21,11 @@ def Calculate_sum(num1,num2)
     return num1 + num2
 
 
-
-
 After configuring ESLint with a detailed rule set and running it on my code, I saw just how many small issues add up — things like inconsistent spacing, missing semicolons, and unused variables. I also ran Prettier to format the code automatically. Once everything was cleaned up, the code looked a lot more organized and was easier to read. Having a consistent style makes the project feel more professional and reduces confusion when working with others or revisiting the code later. The linter really helps enforce discipline, and I can see how it would prevent subtle bugs or messy code from slipping through in a team setting.
 
 
 A good variable name clearly describes what the value represents. In the first version, a, b, and c don’t give any context, which makes the code hard to understand. After changing the names to width, height, and area, it’s much easier to see what the code is doing. Refactoring made the code more readable and meaningful without changing any logic. Even small name changes can make a big difference.
-Example: let a = 10; let b = 20; let c = a+b; console.log(c);
-let width = 10; let height = 20; let area = width + height; console.log(area); 
 
 
 The original code repeated the same console.log structure three times with only the name changing. This kind of duplication can lead to errors if I later need to update the message or format — I’d have to remember to change it everywhere. By refactoring with a greetUser() function, the code is now cleaner and easier to maintain. If I ever want to change the greeting, I only have to update it in one place. It also makes the code more reusable and scalable if more users are added later.
-console.log("Welcome, Aaditya!");console.log("Welcome, Bear!");console.log("Welcome, Focus!");
-
-function greetUser(name) {
-  console.log(`Welcome, ${name}!`);
-}
-greetUser("Aaditya");greetUser("Bear");greetUser("Focus");
 

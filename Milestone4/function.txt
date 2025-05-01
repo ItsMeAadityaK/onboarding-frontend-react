@@ -1,0 +1,28 @@
+function showUserInfo(name, age) {
+  console.log("Name: " + name);
+  console.log("Age: " + age);
+  if (age >= 18) {
+    console.log("Adult");
+  } else {
+    console.log("Minor");
+  }
+}
+
+
+function printName(name) {
+  console.log("Name: " + name);
+}
+
+function printAge(age) {
+  console.log("Age: " + age);
+}
+
+function checkIfAdult(age) {
+  console.log(age >= 18 ? "Adult" : "Minor");
+}
+
+function showUserInfo(name, age) {
+  printName(name);
+  printAge(age);
+  checkIfAdult(age);
+}
