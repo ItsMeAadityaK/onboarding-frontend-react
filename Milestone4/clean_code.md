@@ -43,5 +43,3 @@ The original function didn’t handle edge cases — if someone passed undefined
 
 
 Writing unit tests helped me keep my code clean by forcing me to write simple, reusable functions that are easy to test. When I wrote the test for the greet() function, it made me think about how the function should behave with both normal and edge case inputs, like an empty string. This kind of testing helps catch small mistakes early and makes sure changes won’t break existing code later. I didn’t run into any major issues while testing, but I did notice that I had to be very clear about expected output — which is a good habit for writing reliable code.
-
-internrship
