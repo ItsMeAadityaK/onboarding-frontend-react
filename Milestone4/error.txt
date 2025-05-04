@@ -1,0 +1,11 @@
+function greet(name) {
+  return "Hello, " + name + "!";
+}
+
+
+function greet(name) {
+  if (typeof name !== "string" || name.trim() === "") {
+    return "Invalid name";
+  }
+  return "Hello, " + name + "!";
+}

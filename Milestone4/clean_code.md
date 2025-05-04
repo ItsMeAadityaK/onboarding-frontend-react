@@ -37,3 +37,6 @@ Comments should be used to explain why something is done, not just what is obvio
 
 
 The original function was doing something simple — checking if a number is even — but used an unnecessary if...else block. That made the code longer than it needed to be. After refactoring, I replaced it with a single return statement that’s easier to read and does the exact same thing. Simplifying small pieces like this keeps the code clean and saves time when revisiting it later.
+
+
+The original function didn’t handle edge cases — if someone passed undefined, null, or a number, it would still try to build a greeting. I added a simple guard clause to check if the input is a valid, non-empty string. This makes the function more reliable and avoids confusing output. Handling errors like this is important because it protects the code from crashing or behaving in weird ways when given unexpected input.
