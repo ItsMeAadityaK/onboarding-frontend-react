@@ -40,3 +40,6 @@ The original function was doing something simple — checking if a number is eve
 
 
 The original function didn’t handle edge cases — if someone passed undefined, null, or a number, it would still try to build a greeting. I added a simple guard clause to check if the input is a valid, non-empty string. This makes the function more reliable and avoids confusing output. Handling errors like this is important because it protects the code from crashing or behaving in weird ways when given unexpected input.
+
+
+Writing unit tests helped me keep my code clean by forcing me to write simple, reusable functions that are easy to test. When I wrote the test for the greet() function, it made me think about how the function should behave with both normal and edge case inputs, like an empty string. This kind of testing helps catch small mistakes early and makes sure changes won’t break existing code later. I didn’t run into any major issues while testing, but I did notice that I had to be very clear about expected output — which is a good habit for writing reliable code.
