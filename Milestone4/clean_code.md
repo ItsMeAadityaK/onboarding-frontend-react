@@ -34,3 +34,6 @@ After refactoring, I created three smaller functions: one to print the name, one
 
 
 Comments should be used to explain why something is done, not just what is obvious. In my example, the original comment just said "do something", which wasn’t helpful. After rewriting it to explain that the function returns the sum of two numbers, it’s now clear to anyone reading the code. But sometimes, if the function or variable names are clear enough, you don’t even need a comment. Instead of adding unnecessary comments, it's often better to write self-explanatory code.
+
+
+The original function was doing something simple — checking if a number is even — but used an unnecessary if...else block. That made the code longer than it needed to be. After refactoring, I replaced it with a single return statement that’s easier to read and does the exact same thing. Simplifying small pieces like this keeps the code clean and saves time when revisiting it later.
