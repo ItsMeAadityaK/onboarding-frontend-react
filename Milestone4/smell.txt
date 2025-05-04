@@ -1,0 +1,19 @@
+function dL(u, p) {
+  // let loginType = "user"; // old version
+  if (p === "1234") {
+    console.log("Login success");
+  } else {
+    console.log("wrong password");
+  }
+}
+
+
+const DEFAULT_PASSWORD = "1234";
+
+function loginUser(username, password) {
+  if (password === DEFAULT_PASSWORD) {
+    console.log("Login successful");
+  } else {
+    console.log("Incorrect password");
+  }
+}
