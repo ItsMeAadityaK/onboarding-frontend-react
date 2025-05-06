@@ -1,0 +1,5 @@
+1. How does Formik simplify form management compared to handling state manually?
+Formik abstracts much of the repetitive boilerplate needed for managing form state, change handlers, and submission logic. Instead of writing separate useState hooks for each input, Formik provides a clean useFormik hook that centralizes form values, change handlers, validation, and submit functions — making code more readable and easier to maintain.
+
+2. What are the benefits of using Formik’s validation instead of writing validation logic manually?
+Formik integrates smoothly with Yup, which allows us to define a concise validation schema. This schema-based approach avoids the need for writing multiple if conditions or manually tracking errors. It makes validations more declarative, consistent, and scalable — especially in larger forms.
