@@ -1,0 +1,1 @@
+Components help break down the UI into smaller, reusable pieces. Instead of writing everything in one file, I can create small components like HelloWorld and pass in data using props. This makes the code easier to manage and scale as the app grows. Using props also makes components flexible and dynamic.
