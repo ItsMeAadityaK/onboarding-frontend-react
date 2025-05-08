@@ -1,0 +1,8 @@
+1. When do you prefer using AI vs. searching Google?
+- I prefer using AI (like ChatGPT) when I want a quick explanation, code snippet, or help breaking down a complex topic into simpler terms. It’s like having a coding buddy who can guide me step-by-step. AI is especially useful when I’m trying to learn something new or need personalized help debugging an error. On the other hand, I use Google when I’m looking for official documentation, long-form articles, or answers from platforms like Stack Overflow. Google is great for broad searches and exploring multiple perspectives.
+
+2. How do you decide when to ask a colleague instead?
+- I usually ask a colleague if the problem is specific to our codebase or something collaborative. If I've already tried using AI and searched online but still can’t figure it out—or if I think it would take too long to solve alone—it makes more sense to ask a teammate. I also check if the question might lead to better team alignment or shared learning, especially for tricky architecture or integration decisions.
+
+3. What challenges do developers face when troubleshooting alone?
+- When working alone, it’s easy to get stuck going in circles or missing obvious fixes. Sometimes the hardest part is not the bug itself, but figuring out where to look or what to search for. Without a second opinion, I might misinterpret errors or waste time on the wrong thing. It can also be mentally draining, especially when a deadline is near or the issue is subtle. That’s why having the right mix of resources—AI, search engines, and teammates—is so important.
