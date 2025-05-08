@@ -1,0 +1,8 @@
+1. What are the most common debugging techniques?
+- Some of the most common debugging techniques in React include using console.log() to trace values and application flow, setting breakpoints with browser DevTools or a code editor like VS Code, and inspecting component trees using React DevTools. Developers also commonly isolate components to reproduce issues independently and use conditional rendering or temporary fallback content to test state transitions and UI behavior.
+
+2. Which tools are most effective for React debugging?
+- The most effective tools for React debugging are React Developer Tools (browser extension) for inspecting props, state, and component hierarchy; browser DevTools for checking console errors and network requests; and VS Code's built-in debugger for setting breakpoints and stepping through code. Additionally, the React Profiler can help track unnecessary re-renders and performance bottlenecks.
+
+3. How do you debug issues in large React codebases?
+- In large codebases, debugging is often done by narrowing down the problem through component isolation—temporarily removing or simplifying parts of the app. Developers also rely on clear folder structures and naming conventions to locate relevant files quickly. Using error boundaries helps catch errors in specific parts of the UI. Version control tools like Git are useful to bisect changes and identify what commit introduced the issue. Most importantly, consistent use of debugging tools like React DevTools and maintaining modular components makes large codebases more manageable.
